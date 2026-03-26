@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [BEES](https://mybees.com.br/)
-- 📫 How to reach me: [@filippinheiro](https://twitter.com/filippinheiro) on twitter and [filippinheiro](https://www.linkedin.com/in/filippinheiro/) on linkedin
-- 😄 Pronouns: he/they
-
+- 📫 How to reach me: [Fionna Pinheiro](https://www.linkedin.com/in/fionnapinheiro) on LinkedIn 
+- 😄 Pronouns: she/her
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffilippinheiro%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filippinheiro&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
